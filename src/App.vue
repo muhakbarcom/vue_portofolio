@@ -1,6 +1,7 @@
 <script setup>
 import { RouterView } from 'vue-router';
 import Navbar from './components/Navbar.vue';
+import Navbar_mobile from './components/Navbar_mobile.vue';
 import Header from './components/Header.vue';
 </script>
 
@@ -10,6 +11,7 @@ import Header from './components/Header.vue';
       <div class="col-md-12">
         <Header />
         <Navbar />
+        <Navbar_mobile />
       </div>
     </div>
     <div class="row">
