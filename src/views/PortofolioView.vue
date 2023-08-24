@@ -29,7 +29,7 @@
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
               <img
-                src="../assets/img/project/1 simsi.jpg"
+                src="../assets/img/project/1_simsi.jpg"
                 class="card-img-top"
               />
               <div class="card-body">
@@ -42,7 +42,7 @@
           </div>
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
-              <img src="../assets/img/project/2 yt.jpg" class="card-img-top" />
+              <img src="../assets/img/project/2_yt.jpg" class="card-img-top" />
               <div class="card-body">
                 <h5 class="card-title">Youtube Clone</h5>
                 <p class="card-text">PHP, Bootstrap 5, Youtube API</p>
@@ -52,7 +52,7 @@
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
               <img
-                src="../assets/img/project/3 sipd.jpg"
+                src="../assets/img/project/3_sipd.jpg"
                 class="card-img-top"
               />
               <div class="card-body">
@@ -63,7 +63,7 @@
           </div>
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
-              <img src="../assets/img/project/4 v.jpg" class="card-img-top" />
+              <img src="../assets/img/project/4_v.jpg" class="card-img-top" />
               <div class="card-body">
                 <h5 class="card-title">Virtual Pitstop RS Cicendo Bandung</h5>
                 <p class="card-text">
@@ -75,7 +75,7 @@
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
               <img
-                src="../assets/img/project/5 simas.jpg"
+                src="../assets/img/project/5_simas.jpg"
                 class="card-img-top"
               />
               <div class="card-body">
@@ -89,7 +89,7 @@
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
               <img
-                src="../assets/img/project/6 esurat.jpg"
+                src="../assets/img/project/6_esurat.jpg"
                 class="card-img-top"
               />
               <div class="card-body">
@@ -102,7 +102,7 @@
           </div>
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
-              <img src="../assets/img/project/7 web.jpg" class="card-img-top" />
+              <img src="../assets/img/project/7_web.jpg" class="card-img-top" />
               <div class="card-body">
                 <h5 class="card-title">Website Kelas D3 MI</h5>
                 <p class="card-text">Codeigniter 3, PHP, Bootstrap 4, Mysql</p>
@@ -111,7 +111,7 @@
           </div>
           <div class="col-md-4">
             <div class="card shadow-lg rounded-3 mb-3 border-0">
-              <img src="../assets/img/project/8 web.jpg" class="card-img-top" />
+              <img src="../assets/img/project/8_web.jpg" class="card-img-top" />
               <div class="card-body">
                 <h5 class="card-title">Website Pribadi</h5>
                 <p class="card-text">HTML, Bootstrap 5</p>
@@ -167,77 +167,77 @@
           <div class="row mb-5">
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/9 feed.jpg"
+                src="../assets/img/project/9_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/10 feed.jpg"
+                src="../assets/img/project/10_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/11 feed.jpg"
+                src="../assets/img/project/11_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/12 feed.jpg"
+                src="../assets/img/project/12_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/13 feed.jpg"
+                src="../assets/img/project/13_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/14 feed.jpg"
+                src="../assets/img/project/14_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/15 feed.jpg"
+                src="../assets/img/project/15_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/16 feed.jpg"
+                src="../assets/img/project/16_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/17 feed.jpg"
+                src="../assets/img/project/17_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/18 feed.jpg"
+                src="../assets/img/project/18_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/19 feed.jpg"
+                src="../assets/img/project/19_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -247,14 +247,14 @@
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/20 feed.jpg"
+                src="../assets/img/project/20_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/21 feed.jpg"
+                src="../assets/img/project/21_feed.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -284,7 +284,7 @@
           <div class="row mb-5">
             <div class="col-md-6 mb-3">
               <img
-                src="../assets/img/project/22 yt.jpg"
+                src="../assets/img/project/22_yt.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -300,7 +300,7 @@
             </div>
             <div class="col-md-6 mb-3">
               <img
-                src="../assets/img/project/26 hmmi.jpg"
+                src="../assets/img/project/26_hmmi.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -316,7 +316,7 @@
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/23 hmmi.jpg"
+                src="../assets/img/project/23_hmmi.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -333,7 +333,7 @@
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/24 hmmi.jpg"
+                src="../assets/img/project/24_hmmi.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -349,7 +349,7 @@
             </div>
             <div class="col-md-4 mb-3">
               <img
-                src="../assets/img/project/25 hmmi.jpg"
+                src="../assets/img/project/25_hmmi.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -390,7 +390,7 @@
                 Manajemen Informatika Periode 2020-2021
               </p>
               <img
-                src="../assets/img/project/27 org.jpg"
+                src="../assets/img/project/27_org.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -405,7 +405,7 @@
                 Informatika dengan tema "UX atau User Experience
               </p>
               <img
-                src="../assets/img/project/28 org.jpg"
+                src="../assets/img/project/28_org.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -425,21 +425,21 @@
               <div class="row">
                 <div class="col-md-4 mb-3">
                   <img
-                    src="../assets/img/project/9 feed.jpg"
+                    src="../assets/img/project/9_feed.jpg"
                     class="img-rounded"
                     width="100%"
                   />
                 </div>
                 <div class="col-md-4 mb-3">
                   <img
-                    src="../assets/img/project/10 feed.jpg"
+                    src="../assets/img/project/10_feed.jpg"
                     class="img-rounded"
                     width="100%"
                   />
                 </div>
                 <div class="col-md-4 mb-3">
                   <img
-                    src="../assets/img/project/11 feed.jpg"
+                    src="../assets/img/project/11_feed.jpg"
                     class="img-rounded"
                     width="100%"
                   />
@@ -456,7 +456,7 @@
                 mahasiswa
               </p>
               <img
-                src="../assets/img/project/29 org.jpg"
+                src="../assets/img/project/29_org.jpg"
                 class="img-rounded"
                 width="100%"
               />
@@ -474,7 +474,7 @@
               <div class="row text-start">
                 <div class="col-md-4 mb-3">
                   <img
-                    src="../assets/img/project/30 org.jpg"
+                    src="../assets/img/project/30_org.jpg"
                     class="img-rounded"
                     width="100%"
                   />
@@ -482,7 +482,7 @@
                 </div>
                 <div class="col-md-8 mb-3">
                   <img
-                    src="../assets/img/project/31 org.jpg"
+                    src="../assets/img/project/31_org.jpg"
                     class="img-rounded"
                     width="100%"
                   />
@@ -492,7 +492,7 @@
                 </div>
                 <div class="col-md-3 mb-3">
                   <img
-                    src="../assets/img/project/32 org.jpg"
+                    src="../assets/img/project/32_org.jpg"
                     class="img-rounded"
                     width="100%"
                   />
@@ -504,21 +504,21 @@
                   <div class="row">
                     <div class="col-md-4">
                       <img
-                        src="../assets/img/project/33 org.jpg"
+                        src="../assets/img/project/33_org.jpg"
                         class="img-rounded"
                         width="100%"
                       />
                     </div>
                     <div class="col-md-4">
                       <img
-                        src="../assets/img/project/34 org.jpg"
+                        src="../assets/img/project/34_org.jpg"
                         class="img-rounded"
                         width="100%"
                       />
                     </div>
                     <div class="col-md-4">
                       <img
-                        src="../assets/img/project/35 org.jpg"
+                        src="../assets/img/project/35_org.jpg"
                         class="img-rounded"
                         width="100%"
                       />
@@ -535,14 +535,14 @@
                   <div class="row">
                     <div class="col-md-6">
                       <img
-                        src="../assets/img/project/36 org.jpg"
+                        src="../assets/img/project/36_org.jpg"
                         class="img-rounded"
                         width="100%"
                       />
                     </div>
                     <div class="col-md-6">
                       <img
-                        src="../assets/img/project/37 org.jpg"
+                        src="../assets/img/project/37_org.jpg"
                         class="img-rounded"
                         width="100%"
                       />
