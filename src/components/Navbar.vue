@@ -1,6 +1,6 @@
 <template>
-  <nav class="navbar navbar-expand-lg">
-    <div class="container-fluid">
+  <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
+    <div class="container">
       <a class="navbar-brand" href="#">Muh Akbar</a>
       <button
         class="navbar-toggler"
@@ -17,7 +17,7 @@
         <ul class="navbar-nav ms-auto mb-2 mb-lg-0">
           <!-- Perhatikan kelas "ms-auto" di sini -->
           <li class="nav-item">
-            <router-link to="/" class="nav-link active" aria-current="page"
+            <router-link to="/" class="nav-link" aria-current="page"
               >Home</router-link
             >
           </li>
@@ -46,3 +46,89 @@
 <script setup>
 import { RouterLink } from 'vue-router';
 </script>
+
+<style>
+.navbar {
+  background-color: #1b1f23;
+  box-shadow: 0 2px 4px rgba(0, 0, 0, 0.04);
+}
+
+.navbar-brand {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.navbar-toggler {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-link {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-link:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-link.active {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-link.active:hover {
+  color: rgba(255, 255, 255, 0.9);
+}
+
+.nav-link::after {
+  content: '';
+  display: block;
+  width: 0;
+  height: 2px;
+  background-color: #fff;
+  transition: width 0.3s;
+}
+
+.nav-link:hover::after {
+  width: 100%;
+}
+
+.nav-link.active::after {
+  width: 100%;
+}
+
+.nav-link.active:hover::after {
+  width: 100%;
+}
+
+.navbar-toggler-icon {
+  background-image: url('data:image/svg+xml;charset=utf8,<svg viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg"><path fill="white" d="M0 448h448v-64H0v64zm0-160h448v-64H0v64zm0-192v64h448V96H0z"/></svg>');
+}
+
+@media (max-width: 991.98px) {
+  .navbar-collapse {
+    background-color: #1b1f23;
+  }
+
+  .navbar-nav {
+    margin-top: 10px;
+  }
+
+  .nav-item {
+    margin: 0 0 10px 0;
+  }
+
+  .nav-link {
+    color: #fff;
+  }
+
+  .nav-link:hover {
+    color: #fff;
+  }
+
+  .nav-link.active {
+    color: #fff;
+  }
+
+  .nav-link.active:hover {
+    color: #fff;
+  }
+}
+</style>
