@@ -2,7 +2,7 @@
   <main>
     <!-- <TheWelcome /> -->
     <div class="container" style="min-height: fit-content">
-      <div class="row" style="margin-top: 100px">
+      <div class="row home_card">
         <div class="card">
           <div class="image-bg-home">
             <div class="bg-home-overlay">BACKEND DEVELOPER</div>
@@ -40,6 +40,10 @@
 
 <script setup></script>
 <style>
+.home_card {
+  margin-top: 6rem !important;
+}
+
 .image-bg-home {
   background-size: cover;
   background-position: center;
@@ -162,6 +166,9 @@
 }
 
 @media (max-width: 992px) {
+  .home_card {
+    margin-top: 3rem !important;
+  }
   .bg-home-overlay {
     font-size: 60px;
   }
