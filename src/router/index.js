@@ -20,7 +20,7 @@ const router = createRouter({
       path: '/portofolio',
       name: 'portofolio',
       component: () => import('../views/PortofolioView.vue'),
-      meta: { title: 'Portofolio' },
+      meta: { title: 'Portofolio', subtitle: 'My Portofolio' },
     },
     {
       path: '/contact',
