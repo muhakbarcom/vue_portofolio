@@ -45,6 +45,10 @@
 import { RouterLink } from 'vue-router';
 </script>
 
+<script>
+// jika tampilan mobile maka tambahkan fixed-bottom di .navbar
+</script>
+
 <style>
 .navbar {
   background-color: #1b1f23;
@@ -127,6 +131,16 @@ import { RouterLink } from 'vue-router';
 
   .nav-link.active:hover {
     color: #fff;
+  }
+
+  .fixed-top {
+    position: fixed !important;
+    bottom: 0;
+    left: 0;
+    right: 0;
+    z-index: 1030;
+
+    top: auto !important;
   }
 }
 </style>
