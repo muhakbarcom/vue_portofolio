@@ -17,10 +17,10 @@ const router = createRouter({
       meta: { title: 'About' },
     },
     {
-      path: '/portofolio',
-      name: 'portofolio',
-      component: () => import('../views/PortofolioView.vue'),
-      meta: { title: 'Portofolio', subtitle: 'My Portofolio' },
+      path: '/projects',
+      name: 'projects',
+      component: () => import('../views/ProjectView.vue'),
+      meta: { title: 'Projects', subtitle: 'My Projects' },
     },
     {
       path: '/contact',
