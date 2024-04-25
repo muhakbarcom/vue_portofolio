@@ -1,79 +1,107 @@
 [
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Sebuah website untuk mengelola barang yang masuk dan keluar, peminjaman, distributor, dan lain-lain.",
+    "name": "Digital Document Management",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mengelola dokumen dan form digital",
     "link": "",
-    "tags": ["tag1", "tag2", "tag3", "tag2", "tag3", "tag2", "tag3"]
+    "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "STOCK - Sistem Manajemen Stock dan Penjualan",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mencatat pembelian, penjualan, dan stok barang",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "POS - Sistem Point of Sales Toko Emas",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mencatat penjualan dan pembelian kembali barang",
+    "link": "",
+    "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem otomasi Pallet masuk dan keluar menggunakan RFID",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mencatat dan memonitoring Pallet Masuk/Keluar secara otomatis menggunakan RFID Reader",
+    "link": "",
+    "tags": ["C#", ".NET Core 7.0", "SQL Server", "RFID"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem Monitoring Penyimpanan Stok Suku Cadang Mobil",
+    "imageName": "default.jpg",
+    "description": "Sistem Perhitungan, Monitoring dan Pengelolaan Penyimpanan Stok Suku Cadang.",
+    "link": "",
+    "tags": ["C#", "ASP.NET", "SQL Server", "ZPL Printer"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem Informasi Pengumpulan Karya Seni Kompetisi Nasional",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mengelola acara sebuah kompetisi submission karya tingkat nasional.",
+    "link": "",
+    "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem Monitoring Proses Perakitan Mobil",
+    "imageName": "default.jpg",
+    "description": "Monitoring System Sistem untuk memonitoring proses perakitan, pengelasan, dan pengecatan Mobil",
+    "link": "",
+    "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
-    "name": "Project A",
+    "name": "GITS Profitability System",
     "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "description": "Sistem untuk menghitung profitabilitas perusahaan berdasarkan data project dan aktifitas karyawan.",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem Informasi Manajemen Surat Internal",
+    "imageName": "1_simsi.jpg",
+    "description": "Sistem untuk mengelola surat masuk dan keluar kampus.",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap", "Whatsapp API"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Youtube Cloning",
+    "imageName": "2_yt.jpg",
+    "description": "Cloning website youtube dengan menggunakan API youtube.",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Project A",
-    "imageName": "gpp_system.jpeg",
-    "description": "Deskripsi singkat mengenai Project A.",
-    "link": "https://www.google.com",
-    "tags": ["tag1", "tag2", "tag3"]
+    "name": "Sistem Informasi Perjalanan Dinas",
+    "imageName": "3_sipd.jpg",
+    "description": "Sistem untuk mengelola perjalanan dinas DPRD Kab.Garut.",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
+  },
+  {
+    "name": "Virtual Pitstop RS Cicendo Bandung",
+    "imageName": "4_v.jpg",
+    "description": "Sistem yang mengelola dan menyediakan tes bagi para karyawan yang berkaitan dengan kelompok kerja masing-masing.",
+    "link": "",
+    "tags": ["Dokumentasi Aplikasi"]
+  },
+  {
+    "name": "SIMAS Setwan DPRD Kota Banjar",
+    "imageName": "5_simas.jpg",
+    "description": "Sistem informasi manajemen aset untuk membantu pengelolaan aset DPRD Kota Banjar.",
+    "link": "",
+    "tags": ["Dokumentasi Aplikasi"]
+  },
+  {
+    "name": "E-Surat Setwan DPRD Kota Banjar",
+    "imageName": "6_esurat.jpg",
+    "description": "Sistem pengelolaan persuratan DPRD Kota Banjar.",
+    "link": "",
+    "tags": ["Dokumentasi Aplikasi"]
+  },
+  {
+    "name": "Orange Press",
+    "imageName": "project-orange-press.jpeg",
+    "description": "Sistem informasi pengelolaan submission, Review Draft, hingga penerbitan nomor ISBN untuk Universitas Logistik dan Bisnis Internasional.",
+    "link": "",
+    "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   }
 ]
