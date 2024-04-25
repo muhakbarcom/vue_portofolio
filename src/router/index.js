@@ -28,6 +28,20 @@ const router = createRouter({
       component: () => import('../views/ContactView.vue'),
       meta: { title: 'Contact Me' },
     },
+    {
+      path: '/:pathMatch(.*)*',
+      redirect: (to) => {
+        const path = to.path.substring(1); // Hapus karakter '/' dari awal path
+        return { name: path || 'home' }; // Arahkan ke rute sesuai path atau '/'
+      },
+    },
+    // Definisikan rute 404
+    {
+      path: '/:pathMatch(.*)',
+      name: 'not-found',
+      component: () => import('../views/NotFoundView.vue'),
+      meta: { title: '404 Not Found' },
+    },
   ],
 });
 
