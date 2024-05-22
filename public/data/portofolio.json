@@ -1,65 +1,102 @@
 [
   {
-    "name": "Digital Document Management",
+    "name": "XIMPLI - Digital Document Management",
     "imageName": "default.jpg",
     "description": "Sistem untuk mengelola dokumen dan form digital",
     "link": "",
+    "code": "XIMPLI",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
-    "name": "STOCK - Sistem Manajemen Stock dan Penjualan",
+    "name": "STRP - Stock Sales System",
     "imageName": "default.jpg",
     "description": "Sistem untuk mencatat pembelian, penjualan, dan stok barang",
     "link": "",
+    "code": "STRP",
+    "isPublic": false,
+    "isSecret": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "POS - Sistem Point of Sales Toko Emas",
+    "name": "Tokomas - Point of Sales System",
     "imageName": "default.jpg",
-    "description": "Sistem untuk mencatat penjualan dan pembelian kembali barang",
+    "description": "Sistem untuk mencatat penjualan dan pembelian kembali barang pada toko emas",
     "link": "",
+    "code": "TOKOMAS",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Sistem otomasi Pallet masuk dan keluar menggunakan RFID",
+    "name": "DBS Toyota - Dealer Management System",
+    "imageName": "default.jpg",
+    "description": "Sistem untuk mengelola data pelanggan, penjualan, dan service kendaraan",
+    "link": "",
+    "code": "DBS",
+    "isPublic": false,
+    "isSecret": false,
+    "tags": ["PHP", "Laravel", "MySQL"]
+  },
+  {
+    "name": "E-Warehouse Toyota - Warehouse Management System",
     "imageName": "default.jpg",
     "description": "Sistem untuk mencatat dan memonitoring Pallet Masuk/Keluar secara otomatis menggunakan RFID Reader",
     "link": "",
+    "code": "EWH",
+    "isPublic": false,
+    "isSecret": true,
     "tags": ["C#", ".NET Core 7.0", "SQL Server", "RFID"]
   },
   {
-    "name": "Sistem Monitoring Penyimpanan Stok Suku Cadang Mobil",
+    "name": "SFT Toyota - Production Monitoring System",
     "imageName": "default.jpg",
     "description": "Sistem Perhitungan, Monitoring dan Pengelolaan Penyimpanan Stok Suku Cadang.",
     "link": "",
+    "code": "Shopfloor",
+    "isPublic": false,
+    "isSecret": true,
     "tags": ["C#", "ASP.NET", "SQL Server", "ZPL Printer"]
   },
   {
-    "name": "Sistem Informasi Pengumpulan Karya Seni Kompetisi Nasional",
+    "name": "TMS Toyota - Event Management System",
     "imageName": "default.jpg",
     "description": "Sistem untuk mengelola acara sebuah kompetisi submission karya tingkat nasional.",
     "link": "",
+    "code": "SUSTAIN",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
-    "name": "Sistem Monitoring Proses Perakitan Mobil",
+    "name": "ECM Toyota - Production Monitoring System",
     "imageName": "default.jpg",
     "description": "Monitoring System Sistem untuk memonitoring proses perakitan, pengelasan, dan pengecatan Mobil",
     "link": "",
+    "code": "ECOMA",
+    "isPublic": false,
+    "isSecret": true,
     "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
-    "name": "GITS Profitability System",
+    "name": "GITS - Profitability System",
     "imageName": "gpp_system.jpeg",
     "description": "Sistem untuk menghitung profitabilitas perusahaan berdasarkan data project dan aktifitas karyawan.",
     "link": "",
+    "code": "GPP",
+    "isPublic": false,
+    "isSecret": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Sistem Informasi Manajemen Surat Internal",
+    "name": "ULBI - Internal Document Management",
     "imageName": "1_simsi.jpg",
-    "description": "Sistem untuk mengelola surat masuk dan keluar kampus.",
+    "description": "Sistem untuk mengelola surat masuk dan keluar kampus ULBI Bandung.",
     "link": "",
+    "code": "SIMSI",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap", "Whatsapp API"]
   },
   {
@@ -67,13 +104,19 @@
     "imageName": "2_yt.jpg",
     "description": "Cloning website youtube dengan menggunakan API youtube.",
     "link": "",
+    "code": "YT",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
-    "name": "Sistem Informasi Perjalanan Dinas",
+    "name": "Garut Government Travel System",
     "imageName": "3_sipd.jpg",
     "description": "Sistem untuk mengelola perjalanan dinas DPRD Kab.Garut.",
     "link": "",
+    "code": "SIPD",
+    "isPublic": true,
+    "isSecret": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
