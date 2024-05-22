@@ -55,8 +55,8 @@ export default {
   methods: {
     async fetchData() {
       try {
-        const response = await axios.get('/data/portofolio.json');
-        // this.projects = response.data;
+        const response = await axios.get('/data/portofolio.json'); // Fetch data dari file JSON
+
         // ubah path image menjadi /assets/img/project/${project.image}
         this.projects = response.data.map((project) => ({
           ...project,
@@ -68,6 +68,9 @@ export default {
           ...project,
           link: project.link ? project.link : '/',
         }));
+
+        // filter hanya project yang isActive = true saja
+        this.projects = this.projects.filter((project) => project.isActive);
       } catch (error) {
         console.error('Error fetching data:', error);
       }

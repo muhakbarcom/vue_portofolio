@@ -7,6 +7,7 @@
     "code": "XIMPLI",
     "isPublic": true,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
@@ -17,6 +18,7 @@
     "code": "STRP",
     "isPublic": false,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
@@ -27,6 +29,7 @@
     "code": "TOKOMAS",
     "isPublic": true,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Laravel", "MySQL", "Bootstrap"]
   },
   {
@@ -37,6 +40,7 @@
     "code": "DBS",
     "isPublic": false,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Laravel", "MySQL"]
   },
   {
@@ -47,6 +51,7 @@
     "code": "EWH",
     "isPublic": false,
     "isSecret": true,
+    "isActive": true,
     "tags": ["C#", ".NET Core 7.0", "SQL Server", "RFID"]
   },
   {
@@ -57,6 +62,7 @@
     "code": "Shopfloor",
     "isPublic": false,
     "isSecret": true,
+    "isActive": true,
     "tags": ["C#", "ASP.NET", "SQL Server", "ZPL Printer"]
   },
   {
@@ -67,6 +73,7 @@
     "code": "SUSTAIN",
     "isPublic": true,
     "isSecret": false,
+    "isActive": true,
     "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
@@ -77,6 +84,7 @@
     "code": "ECOMA",
     "isPublic": false,
     "isSecret": true,
+    "isActive": true,
     "tags": ["C#", "ASP.NET", "SQL Server", "Bootstrap"]
   },
   {
@@ -87,6 +95,7 @@
     "code": "GPP",
     "isPublic": false,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
@@ -97,6 +106,7 @@
     "code": "SIMSI",
     "isPublic": true,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap", "Whatsapp API"]
   },
   {
@@ -107,6 +117,7 @@
     "code": "YT",
     "isPublic": true,
     "isSecret": false,
+    "isActive": false,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
@@ -117,6 +128,7 @@
     "code": "SIPD",
     "isPublic": true,
     "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   },
   {
@@ -124,6 +136,10 @@
     "imageName": "4_v.jpg",
     "description": "Sistem yang mengelola dan menyediakan tes bagi para karyawan yang berkaitan dengan kelompok kerja masing-masing.",
     "link": "",
+    "code": "Virtual Pitstop",
+    "isPublic": true,
+    "isSecret": false,
+    "isActive": true,
     "tags": ["Dokumentasi Aplikasi"]
   },
   {
@@ -131,6 +147,10 @@
     "imageName": "5_simas.jpg",
     "description": "Sistem informasi manajemen aset untuk membantu pengelolaan aset DPRD Kota Banjar.",
     "link": "",
+    "code": "SIMAS",
+    "isPublic": true,
+    "isSecret": false,
+    "isActive": true,
     "tags": ["Dokumentasi Aplikasi"]
   },
   {
@@ -138,13 +158,21 @@
     "imageName": "6_esurat.jpg",
     "description": "Sistem pengelolaan persuratan DPRD Kota Banjar.",
     "link": "",
+    "code": "E-Surat",
+    "isPublic": true,
+    "isSecret": false,
+    "isActive": true,
     "tags": ["Dokumentasi Aplikasi"]
   },
   {
-    "name": "Orange Press",
+    "name": "ULBI Orange Press",
     "imageName": "project-orange-press.jpeg",
     "description": "Sistem informasi pengelolaan submission, Review Draft, hingga penerbitan nomor ISBN untuk Universitas Logistik dan Bisnis Internasional.",
     "link": "",
+    "code": "Orange Press",
+    "isPublic": true,
+    "isSecret": false,
+    "isActive": true,
     "tags": ["PHP", "Codeigniter 3", "MySQL", "Bootstrap"]
   }
 ]
