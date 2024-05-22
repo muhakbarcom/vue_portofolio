@@ -1,7 +1,10 @@
 <template>
   <nav class="navbar navbar-expand-lg navbar-dark fixed-top">
     <div class="container">
-      <a class="navbar-brand" href="#">Muh Akbar</a>
+      <router-link to="/" class="nav-link" aria-current="page"
+        ><a class="navbar-brand" href="#">Muh Akbar</a></router-link
+      >
+
       <button
         class="navbar-toggler"
         type="button"
