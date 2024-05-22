@@ -18,7 +18,7 @@
           <!-- Perhatikan kelas "ms-auto" di sini -->
           <li class="nav-item">
             <router-link to="/" class="nav-link" aria-current="page"
-              >Home</router-link
+              >About</router-link
             >
           </li>
           <li class="nav-item">

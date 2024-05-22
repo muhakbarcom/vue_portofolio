@@ -21,17 +21,25 @@ import Header from './components/Header.vue';
 </template>
 
 <style>
+:root {
+  --smoky-black: #101010;
+  --black: #000;
+  --card-dark: #1b1f23;
+  --box-shadow-dark: 0 0 10px rgba(0, 0, 0, 0.1);
+  --title-sub-text: #fff;
+}
+
 .main {
-  background-color: #000;
+  background-color: var(--black);
   min-height: 100vh;
   max-width: 100%; /* Atur lebar maksimum agar sesuai dengan lebar layar */
   margin: 0 auto; /* Pusatkan .main di tengah layar jika diperlukan */
 }
 
 .card {
-  background-color: #1b1f23 !important;
+  background-color: var(--card-dark) !important;
   border-radius: 10px !important;
-  box-shadow: 0 0 10px rgba(0, 0, 0, 0.1) !important;
+  box-shadow: var(--box-shadow-dark) !important;
   color: rgba(255, 255, 255, 0.9) !important;
 }
 
@@ -44,7 +52,7 @@ import Header from './components/Header.vue';
 }
 
 .title_sub {
-  color: #fff;
+  color: var(--title-sub-text);
   font-size: 2rem;
   font-weight: 800;
   margin-bottom: 1.5rem;
@@ -63,26 +71,4 @@ import Header from './components/Header.vue';
     font-size: 1.5rem;
   }
 }
-
-/* @media (max-width: 900px) {
-  #sub_section {
-    max-width: 90vw;
-    margin-top: 10vh;
-  }
-
-  .title_sub {
-    font-size: 1.5rem;
-  }
-}
-
-@media (max-width: 768px) {
-  #sub_section {
-    max-width: 90vw;
-    margin-top: 10vh;
-  }
-
-  .title_sub {
-    font-size: 1.5rem;
-  }
-} */
 </style>
