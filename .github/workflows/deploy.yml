@@ -3,7 +3,7 @@ name: Deploy Vue.js to cPanel
 on:
   push:
     branches:
-      - master # Ubah ke branch yang kamu gunakan
+      - staging # Ubah ke branch yang kamu gunakan
 
 jobs:
   build:
@@ -28,7 +28,7 @@ jobs:
         uses: SamKirkland/FTP-Deploy-Action@4.1.0
         with:
           server: ${{ secrets.FTP_HOST }}
-          username: ${{ secrets.FTP_USERNAME }}
-          password: ${{ secrets.FTP_PASSWORD }}
+          username: ${{ secrets.FTP_STAGING_USERNAME }}
+          password: ${{ secrets.FTP_STAGING_PASSWORD }}
           local-dir: dist/
           server-dir: / # Sesuaikan dengan direktori di cPanel
