@@ -3,7 +3,7 @@ name: Deploy Vue.js to cPanel
 on:
   push:
     branches:
-      - main # Ubah ke branch yang kamu gunakan
+      - master # Ubah ke branch yang kamu gunakan
 
 jobs:
   build:
