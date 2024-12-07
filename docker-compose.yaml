@@ -8,3 +8,10 @@ services:
       - "3000:80" # Mapping port 3000 di host ke port 80 di container
     volumes:
       - ./nginx.conf:/etc/nginx/conf.d/default.conf:ro
+    restart: unless-stopped
+    networks:
+      - cloudflare-tunnel-network
+
+networks:
+  cloudflare-tunnel-network:
+    external: true
